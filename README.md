@@ -3,4 +3,4 @@ My name is Tesfa (he/him) and I am a senior studying computer science at Univers
 
 ## What I am doing right now 🛠️
 Currently I am:
-- Building Pongo! We are helping e-commerce stores leverage survey data to generate more sales through cross-selling and quanitiative social proof. **Learn more here --> https://joinpongo.com** 🦧
+- Building Pongo! We are creating the easiest way to launch and online store, all from your phone! --> https://joinpongo.com** 🦧
