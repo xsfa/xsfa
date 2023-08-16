@@ -1,5 +1,5 @@
 # Hi there 👋
-My name is Tesfa (he/him) and I am a senior studying computer science at University of Washington Bothell
+My name is Tesfa (he/him) and I am a data engineer based in Seattle
 
 ## Currently..
 - Working at Tesla ⚡️ as a data engineer
